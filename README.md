@@ -1,7 +1,5 @@
 # Linear Regression with R
-Certified Data Analytics (R) Capstone Project
-
-Advanced Diploma in Data Analytics and Machine Learning
+Certified Data Analytics (R) Capstone Project - Advanced Diploma in Data Analytics and Machine Learning
 
 Singapore Management University | SMU Academy
 
